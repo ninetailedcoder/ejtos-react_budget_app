@@ -9,3 +9,9 @@
 * Increase and decrease buttons for the departments
 
 <img width="898" alt="Currency_change" src="https://github.com/ninetailedcoder/ejtos-react_budget_app/assets/108363860/0a163bb7-ca31-424a-b176-073df8798b41">
+
+# To run the application 
+* git clone
+* cd ejtos-react_budget_app
+* npm install
+* npm start
